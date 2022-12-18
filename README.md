@@ -10,6 +10,6 @@ Here is an example image:
 
 
 
-You can find the Github link to the page [here](https://michahere.github.io/Home-Page/). I personally use a Firefox extension called *Custom New Tab Page* to set this as my new tab page on Firefox. 
+You can find the Github link to the page [here](https://michahere.github.io/Home-Page/). I personally use a Firefox extension called [*Custom New Tab Page*](https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/) to set this as my new tab page on Firefox. 
 
 
