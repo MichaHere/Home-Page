@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.loaded {
+    animation: pageFade 1s ease-in-out 1ms;
+}
+
+@keyframes pageFade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+hr {
+    border: 0;
+    border-top: 2px white solid;
+    height: 0;
+    box-sizing: content-box;
+    margin: 1rem 0;
+    width: 100%;
+}
+
+#pageWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background-size: cover;
+}
+
+
+#date {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#date p {
+    color: white;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+#dateTime {
+    font-size: 6rem;
+}
+
+#dateDate {
+    font-size: 2.3rem;
+}
