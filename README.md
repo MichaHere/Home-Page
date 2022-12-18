@@ -1,6 +1,6 @@
 ## My Custom Firefox Home Page
 
-This is my custom Firefox *home/new tab* page. It is made to look like the extension **Tabliss**. It uses Unsplash to find random images to set as a background. 
+This is my custom Firefox *home/new tab* page. It is made to look like the extension [Tabliss](https://tabliss.io/). It uses Unsplash to find random images to set as a background. 
 
 
 
