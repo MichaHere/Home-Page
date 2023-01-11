@@ -28,6 +28,7 @@ function Wallpaper() {
         img.onload = function() {
             document.getElementById("pageWrapper").style.backgroundImage = `url(${request.url.replace("1080", "2000")})`
             document.getElementById("pageWrapper").classList.add("loaded")
+            document.getElementById("pageWrapper").classList.remove("notloaded")
         }
         img.src = request.url.replace("1080", "2000")
         if (img.complete) img.onload();

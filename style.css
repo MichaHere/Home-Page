@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+.notloaded {
+    opacity: 0;
+}
+
 .loaded {
     animation: pageFade 1s ease-in-out 1ms;
 }
